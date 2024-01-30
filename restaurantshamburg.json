@@ -1,0 +1,24 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Restaurant A",
+      "address": "Musterstraße 123",
+      "zip": "20095",
+      "city": "Hamburg",
+      "phone": "040 1234567",
+      "opening_hours": "Mo-Fr: 12:00-22:00, Sa-So: 13:00-23:00",
+      "map_link": "https://maps.google.com/?q=Musterstraße%20123,%2020095%20Hamburg"
+    },
+    {
+      "id": 2,
+      "name": "Restaurant B",
+      "address": "Beispielweg 456",
+      "zip": "20146",
+      "city": "Hamburg",
+      "phone": "040 7654321",
+      "opening_hours": "Mo-Sa: 11:30-23:00, So: 12:00-22:00",
+      "map_link": "https://maps.google.com/?q=Beispielweg%20456,%2020146%20Hamburg"
+    }
+  ]
+}
