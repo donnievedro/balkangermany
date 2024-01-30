@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurants>
+    <restaurant>
+        <name>Restaurant A</name>
+        <address>Musterstraße 1</address>
+        <zip>20095</zip>
+        <city>Hamburg</city>
+        <phone>0401234567</phone>
+        <opening_hours>Mo-Fr 12:00-22:00, Sa-So 13:00-23:00</opening_hours>
+        <map_link>https://maps.google.com/?q=Musterstraße%201,%2020095%20Hamburg</map_link>
+    </restaurant>
+	
+    <restaurant>
+        <name>Restaurant B</name>
+        <address>Beispielweg 2</address>
+        <zip>20146</zip>
+        <city>Hamburg</city>
+        <phone>0407654321</phone>
+        <opening_hours>Mo-Sa 11:30-23:00, So 12:00-22:00</opening_hours>
+        <map_link>https://maps.google.com/?q=Beispielweg%202,%2020146%20Hamburg</map_link>
+    </restaurant>
+</restaurants>
