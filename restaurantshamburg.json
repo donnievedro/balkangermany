@@ -1,6 +1,7 @@
 {
   "restaurants": [
     {
+      "id": 1,
       "name": "Restaurant A",
       "address": "Musterstraße 123",
       "zip": "20095",
@@ -10,6 +11,7 @@
       "map_link": "https://maps.google.com/?q=Musterstraße%20123,%2020095%20Hamburg"
     },
     {
+      "id": 2,
       "name": "Restaurant B",
       "address": "Beispielweg 456",
       "zip": "20146",
